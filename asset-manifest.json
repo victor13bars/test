@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/test/static/css/main.b8b4e9ff.chunk.css",
+    "main.js": "/test/static/js/main.3bec6407.chunk.js",
+    "main.js.map": "/test/static/js/main.3bec6407.chunk.js.map",
+    "runtime-main.js": "/test/static/js/runtime-main.5e1b540b.js",
+    "runtime-main.js.map": "/test/static/js/runtime-main.5e1b540b.js.map",
+    "static/js/2.9d724963.chunk.js": "/test/static/js/2.9d724963.chunk.js",
+    "static/js/2.9d724963.chunk.js.map": "/test/static/js/2.9d724963.chunk.js.map",
+    "index.html": "/test/index.html",
+    "static/css/main.b8b4e9ff.chunk.css.map": "/test/static/css/main.b8b4e9ff.chunk.css.map",
+    "static/js/2.9d724963.chunk.js.LICENSE.txt": "/test/static/js/2.9d724963.chunk.js.LICENSE.txt",
+    "static/media/paypal.ddde0be1.png": "/test/static/media/paypal.ddde0be1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e1b540b.js",
+    "static/js/2.9d724963.chunk.js",
+    "static/css/main.b8b4e9ff.chunk.css",
+    "static/js/main.3bec6407.chunk.js"
+  ]
+}
