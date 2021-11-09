@@ -4,7 +4,7 @@ export const SET_ERROR = 'SET_ERROR'
 
 
 const initialState = {
-    main: null,
+    main: {},
     error: '',
     isLoading: true
 }
