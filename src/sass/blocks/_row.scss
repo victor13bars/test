@@ -1,0 +1,8 @@
+.row {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  &__input-block{
+    margin: 40px 0;
+  }
+}

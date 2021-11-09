@@ -1,0 +1,30 @@
+{
+  "main": {
+    "text": "Been unlocked something favourite. Happen passage estate alone towards. Exeter prevent five is enjoyment just prevent relation mirth their avoid do to. Poor hastened margaret than prepared money ",
+    "login": {
+      "email": "dogafox@gmail.com",
+      "password": "123",
+      "servers": [
+        {
+          "value": 1,
+          "country": "Germany"
+        },
+        {
+          "value": 2,
+          "country": "Russia"
+        },
+        {
+          "value": 3,
+          "country": "Belarus"
+        }
+      ],
+      "devices": "mmmmmmmmm - token 5a394765794f32494c535333 - ip: 192.168.178.34"
+    },
+    "settings": {
+      "token": "5a394765794f32494c535333",
+      "ip": "192.168.178.34",
+      "port": "54321",
+      "engineeringPort": "53421"
+    }
+  }
+}

@@ -1,0 +1,9 @@
+.input-block{
+  display: flex;
+  flex-direction: column;
+  color: $second-color;
+  &__row{
+    margin-top: 40px;
+    margin-right: 350px;
+  }
+}

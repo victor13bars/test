@@ -1,0 +1,21 @@
+.column-data {
+  display: flex;
+  flex-direction: column;
+
+  &__band {
+    margin-left: 20px;
+    margin-bottom: 5px;
+    padding: 6px 10px;
+    background-color: $main-color;
+    color: white;
+    font-size: 18px;
+    font-weight: 500;
+    letter-spacing: 1px;
+  }
+
+  &__row{
+    margin-right: 150px;
+  }
+
+}
+

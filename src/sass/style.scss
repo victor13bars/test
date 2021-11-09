@@ -1,0 +1,22 @@
+@import "base/variables";
+@import "blocks/buttons";
+@import "blocks/transactionInfo";
+@import "blocks/input";
+@import "blocks/navLinks";
+@import "blocks/inputBlock";
+@import "blocks/columnData";
+@import "blocks/loader";
+@import "blocks/errorMessage";
+@import "blocks/actions";
+@import "blocks/row";
+
+* {
+  margin: 0;
+}
+.wrapper-nav {
+  margin-right: 100px;
+}
+
+.container {
+  padding: 0px 3px 0px 10px;
+}
